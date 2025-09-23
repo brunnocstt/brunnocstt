@@ -16,7 +16,7 @@ My objective is simple: to use the power of data to solve complex problems and e
 
 Acredito que a análise de dados só tem valor quando sai da teoria e vira ferramenta. Meu foco é construir pontes entre a tecnologia de BI e as necessidades reais do negócio. Tive a satisfação de iniciar uma área de Business Intelligence do zero, entregando com as minhas análises uma nova forma da empresa enxergar a própria operação. Posteriormente, após a expansão da área, atuo como **Analista de BI Sênior**, trazendo todos os dias um pouco do desejo de cada vez mais, conseguir desempenhar um trabalho diferenciado.
 
-Comm graduação em **Ciência de Dados** e atuando na área desde 2018, já passei por operações de call center, people analytics e hoje estou à frente da construção de relatórios e ferramentas de Business Intelligence em uma concessionária de veículos pesados.
+Graduado em **Ciência de Dados** e atuando na área desde 2018, já passei por operações de call center, people analytics e hoje estou à frente da construção de relatórios e ferramentas de Business Intelligence em uma concessionária de veículos pesados.
 
 Meu objetivo é simples: usar o poder dos dados para resolver problemas complexos e capacitar outras pessoas a fazerem o mesmo.
 
