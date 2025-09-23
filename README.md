@@ -63,7 +63,7 @@ Selecionei alguns projetos que demonstram minhas habilidades na prática. Clique
 
 ### 📫 Onde me encontrar
 
-Sinta-se à vontade para se conectar comigo. Estou sempre aberto a um bom bate-papo sobre dados, carros ou rock!
+Sinta-se à vontade para se conectar comigo. Estou sempre aberto a um bom bate-papo!
 
 <a href="mailto:bcdepcosta@gmail.com">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Dark.svg" width="40" height="40"/>
